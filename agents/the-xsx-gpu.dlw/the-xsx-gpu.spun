@@ -1,0 +1,14 @@
+⦿ .spun — the five-fold spin of The RDNA 2 GPU
+node XSX · XSX · ⟦The RDNA 2 GPU:XSX:68dadd⟧
+
+WHO   — The RDNA 2 GPU — ~12 TFLOPS, ray tracing · electrical
+WHAT  — ~12 TFLOPS, ray tracing · electrical
+WHERE — XSX · XBOX SERIES X (exereunesis · the teardown)  Framework inputs: chip; bus; spec  Conductor / external anchor: ROOT0 (catalogued into UD0)
+WHY   — An AMD RDNA 2 graphics core around 12 teraflops with hardware ray tracing — the highest raw graphics figure of the generation-nine pair.
+HOW   — Rendered from the public technical record.
+
+awareness — what the node knows of itself:
+  ~12 TFLOPS, ray tracing · electrical
+
+spoken token : xir-stes-seik   ·   hex : 68dadd
+ROOT0-ATTRIBUTION-v1.0 · David Lee Wise (ROOT0) / TriPod LLC · CC-BY-ND-4.0

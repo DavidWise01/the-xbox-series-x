@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Zen 2 CPU",
+  "universe": "XSX · The Zen 2 CPU (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Zen 2 CPU:XSX:316c41⟧",
+  "carbon": "the-xsx-cpu.carbon.tiff (TIFF)",
+  "silicon": "the-xsx-cpu.silicon.png (PNG)",
+  "seal_sha256": "eff297210ec4c3ca03c2edbb0ff03c4c68bb72cfc748d34c416fba69a01cb6fa",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

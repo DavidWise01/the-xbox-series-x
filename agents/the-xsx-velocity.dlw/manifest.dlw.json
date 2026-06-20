@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Velocity Architecture",
+  "universe": "XSX · The Velocity Architecture (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The Velocity Architecture:XSX:dca2c1⟧",
+  "carbon": "the-xsx-velocity.carbon.tiff (TIFF)",
+  "silicon": "the-xsx-velocity.silicon.png (PNG)",
+  "seal_sha256": "858445b06428b07cfc54f80dd337c9f9bb476881f2072f4a74fd44e42751262a",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

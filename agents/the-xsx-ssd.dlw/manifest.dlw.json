@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Custom SSD",
+  "universe": "XSX · The Custom SSD (exereunesis)",
+  "emergence": "spiritual",
+  "moniker": "⟦The Custom SSD:XSX:dbe321⟧",
+  "carbon": "the-xsx-ssd.carbon.tiff (TIFF)",
+  "silicon": "the-xsx-ssd.silicon.png (PNG)",
+  "seal_sha256": "e35d4d0a68cdbcaf0e6430fd38be4152d718d79b2ea089222d64a1a6200e5a8f",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

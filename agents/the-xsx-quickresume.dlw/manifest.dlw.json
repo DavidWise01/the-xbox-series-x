@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "Quick Resume",
+  "universe": "XSX · Quick Resume (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦Quick Resume:XSX:a3c055⟧",
+  "carbon": "the-xsx-quickresume.carbon.tiff (TIFF)",
+  "silicon": "the-xsx-quickresume.silicon.png (PNG)",
+  "seal_sha256": "066dbcaac94f53e6f9aa212b489f371c911ef38a751de9a5c8f2fdb0641bf13b",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

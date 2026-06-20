@@ -1,0 +1,51 @@
+[
+  {
+    "slug": "the-xsx-cpu",
+    "name": "The Zen 2 CPU",
+    "epithet": "eight modern x86 cores · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Zen 2 CPU:XSX:316c41⟧"
+  },
+  {
+    "slug": "the-xsx-gpu",
+    "name": "The RDNA 2 GPU",
+    "epithet": "~12 TFLOPS, ray tracing · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The RDNA 2 GPU:XSX:68dadd⟧"
+  },
+  {
+    "slug": "the-xsx-ssd",
+    "name": "The Custom SSD",
+    "epithet": "fast streaming storage · spiritual",
+    "emergence": "spiritual",
+    "moniker": "⟦The Custom SSD:XSX:dbe321⟧"
+  },
+  {
+    "slug": "the-xsx-velocity",
+    "name": "The Velocity Architecture",
+    "epithet": "hardware + software streaming · electrical",
+    "emergence": "electrical",
+    "moniker": "⟦The Velocity Architecture:XSX:dca2c1⟧"
+  },
+  {
+    "slug": "the-xsx-gddr6",
+    "name": "The GDDR6",
+    "epithet": "a split-speed pool · natural",
+    "emergence": "natural",
+    "moniker": "⟦The GDDR6:XSX:07a3e7⟧"
+  },
+  {
+    "slug": "the-xsx-quickresume",
+    "name": "Quick Resume",
+    "epithet": "several games, suspended · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦Quick Resume:XSX:a3c055⟧"
+  },
+  {
+    "slug": "the-xsx-series-s",
+    "name": "The Series S",
+    "epithet": "the same gen, scaled down · ethereal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Series S:XSX:d3d599⟧"
+  }
+]

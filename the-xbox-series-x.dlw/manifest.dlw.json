@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "XBOX SERIES X",
+  "universe": "XSX · XBOX SERIES X (exereunesis · the teardown)",
+  "emergence": "",
+  "moniker": "⟦XBOX SERIES X:XSX:d4723d⟧",
+  "carbon": "the-xbox-series-x.carbon.tiff (TIFF)",
+  "silicon": "the-xbox-series-x.silicon.png (PNG)",
+  "seal_sha256": "436cd1e907821fa53e828d508410c5d9aa276a94148a6d5a6a9ddcf73beb4092",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

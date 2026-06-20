@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The Series S",
+  "universe": "XSX · The Series S (exereunesis)",
+  "emergence": "ethereal",
+  "moniker": "⟦The Series S:XSX:d3d599⟧",
+  "carbon": "the-xsx-series-s.carbon.tiff (TIFF)",
+  "silicon": "the-xsx-series-s.silicon.png (PNG)",
+  "seal_sha256": "3b75664b81125f15377dcdb99db1c2e77ad0c9deec7a479826f35f8e5dfa2441",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

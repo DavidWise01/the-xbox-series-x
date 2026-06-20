@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "The RDNA 2 GPU",
+  "universe": "XSX · The RDNA 2 GPU (exereunesis)",
+  "emergence": "electrical",
+  "moniker": "⟦The RDNA 2 GPU:XSX:68dadd⟧",
+  "carbon": "the-xsx-gpu.carbon.tiff (TIFF)",
+  "silicon": "the-xsx-gpu.silicon.png (PNG)",
+  "seal_sha256": "40fea3890a29b392a96de82c1736cf07ba2c5257bf50d87fa4a512c00c1f64c3",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}
